@@ -46,7 +46,8 @@ Reasons for choosing coffee house coupon is because 3rd of the drivers in the da
   ![Coffee House acceptance by Destination](images/coffee_house_coupon_acceptance_by_destination.png)
 * As you can see below, drivers whos occupation is student or unemployed were likely to accept coffee house coupon.
   ![Coffee House acceptance by Destination](images/coffee_house_coupon_acceptance_by_occupation.png)
-* Drivers between the ages of 20 and 25 had a higher rate of coupon acceptance, while other age groups were more likely to reject the coupons. 
+* Drivers between the ages of 20 and 25 had a higher rate of coupon acceptance, while other age groups were more likely to reject the coupons.
+
   ![Coffee House acceptance by Destination](images/age_distribution_by_coffee_coupon_acceptance.png)
 
 
