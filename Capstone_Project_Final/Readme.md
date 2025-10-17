@@ -199,7 +199,7 @@ Tuning didn't help because CV was done on balanced SMOTE data (33.3% positive) w
 ## Project Structure
 
 ```
-capstone_workspace/
+Capstone_Project_Final/
 ├── 1_data_preparation.ipynb                 # Data prep & feature engineering
 ├── 2_eda.ipynb                              # EDA & cohort analysis  
 ├── 3_model_training.ipynb                   # Model training & SHAP analysis
