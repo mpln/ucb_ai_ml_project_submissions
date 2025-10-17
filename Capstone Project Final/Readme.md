@@ -181,10 +181,10 @@ Tuning didn't help because CV was done on balanced SMOTE data (33.3% positive) w
    - Customize messaging based on user history and behavioral signals
 
 **Future Work:**
-- Add device, location, referral source features
-- Test deep learning models (LSTM/RNN)
-- A/B test in production
-- Predict customer lifetime value
+- Add device, location, referral source data
+- Try LSTM/RNN for sequential behavior patterns
+- Deploy as real-time prediction service
+- Extend model to predict customer lifetime value
 
 ---
 
